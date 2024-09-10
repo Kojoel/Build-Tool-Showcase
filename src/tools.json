@@ -1,9 +1,19 @@
-{
-    "tools": [
-      { "name": "Webpack" },
-      { "name": "Gulp" },
-      { "name": "Grunt" },
-      { "name": "Parcel" }
-    ]
-  }
+[
+  { "name": "Webpack", 
+    "description": "Webpack is a powerful and flexible module bundler for JavaScript applications. It takes your application’s code, along with its dependencies, and bundles them into one or more output files, typically for use in a web browser. Webpack handles not just JavaScript files, but also other types of assets like CSS, images, and HTML, which can be processed and optimized through plugins and loaders.",
+    "image": "https://dwglogo.com/wp-content/uploads/2017/09/1900px-webpack_logo-1024x704.png"  },
+
+  { "name": "Gulp", 
+    "description": "Gulp is a task runner and build system for automating repetitive tasks in web development. It uses a code-over-configuration approach, where tasks are defined in JavaScript code rather than configuration files. Gulp streamlines tasks like file minification, compilation (e.g., Sass to CSS), image optimization, and more, making it easier to manage and automate the build process.",
+    "image": "https://web-crunch.s3.us-east-2.amazonaws.com/uploads/post/feature_image/61/getting-to-know-gulp.png"},
+
+  { "name": "Grunt", 
+    "description": "Grunt is a task runner for automating repetitive tasks in web development. It uses a configuration file, Gruntfile.js, where tasks and plugins are defined to handle common development tasks like file minification, compilation, linting, and testing. Grunt simplifies the build process by automating these tasks, helping to streamline development workflows and maintain consistent code quality.",
+    "image": "https://miro.medium.com/v2/resize:fit:4800/format:webp/1*aX2cP25LNC8kvRPPla5W_A.png"},
+
+  { "name": "Parcel", 
+    "description": "Parcel is a zero-configuration web application bundler that simplifies the process of building and bundling JavaScript applications. It automatically handles tasks such as code compilation, bundling, and optimization without requiring extensive configuration. Parcel features built-in support for modern JavaScript, CSS, HTML, and asset types, making it easy to get started with minimal setup." ,
+    "image": "https://v1.parceljs.org/assets/parcel-front.webp"}
+  
+]
   
