@@ -68,7 +68,7 @@ body {
       background: white;
       border-radius: 8px;
       font-weight: 500; 
-
+      margin-bottom: 5px;
     }
 
     .description {
@@ -83,9 +83,11 @@ body {
   main div.content:hover {
     background: rgb(35, 34, 41);
     color: white;
+    width: 400px;
 
     .description{
       color: white;
+      font-size: 15px;
     }
   }
   
