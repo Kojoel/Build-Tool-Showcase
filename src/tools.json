@@ -1,4 +1,22 @@
 [
+  {
+    "name": "Rollup",
+    "description": "Rollup is a module bundler optimized for JavaScript libraries and applications that utilize ES modules (ESM). It specializes in tree-shaking, which eliminates unused code from your final bundle, resulting in smaller and faster files. Rollup is highly configurable and is often used for building libraries, enabling developers to output various module formats like CommonJS, ES modules, and UMD.",
+    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/images/rollup1.png"
+  },
+
+  {
+    "name": "Vite",
+    "description": "Vite is a next-generation front-end build tool that provides a faster and more streamlined development experience. It uses ES modules and browser-native features for hot module replacement, allowing developers to see changes in real time. Vite requires minimal configuration and supports modern JavaScript frameworks like Vue and React, while also providing fast builds for production.",
+    "image": "https://vitejs.dev/logo-with-shadow.png"
+  },
+  
+  {
+    "name": "Snowpack",
+    "description": "Snowpack is a modern build tool designed to deliver fast, near-instant builds by avoiding the traditional bundling step during development. Instead, Snowpack uses the native ES module system in modern browsers, allowing developers to see immediate feedback as they code. It's highly customizable and works with various JavaScript frameworks and libraries, making it suitable for both development and production environments.",
+    "image": "https://www.snowpack.dev/img/logo.png"
+  },
+
   { "name": "Webpack", 
     "description": "Webpack is a powerful and flexible module bundler for JavaScript applications. It takes your application’s code, along with its dependencies, and bundles them into one or more output files, typically for use in a web browser. Webpack handles not just JavaScript files, but also other types of assets like CSS, images, and HTML, which can be processed and optimized through plugins and loaders.",
     "image": "https://dwglogo.com/wp-content/uploads/2017/09/1900px-webpack_logo-1024x704.png"  },
